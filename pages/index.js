@@ -1,6 +1,6 @@
 import Blog from "@/blog/Blog";
 
-export default function HomePage() {
+export default function About() {
   return (
     <div>
       <Blog />
